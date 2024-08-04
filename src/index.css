@@ -10,3 +10,18 @@ body {
 .App {
   text-align: center;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#description {
+  padding-bottom: 15px;
+  border-bottom: 1px solid grey;
+}
+
+#hideCommentsButton {
+  margin-top: 20px;
+}
